@@ -130,7 +130,7 @@ body {
 
 /* Banner and footer background are the same */
 .banner, .footer {
-    background-color: #58a50c; /* Dark Green */
+    background-color: #c41cbb; /* Purple */
 }
 
 /* Set font on dark areas to white */
@@ -144,7 +144,7 @@ a.heading:link, a.heading:visited {color: #fff; text-decoration: none; }
 
 /* Navigation Links */
 a.topnav {font-weight: bold;}
-a.topnav:link, a.topnav:visited {color: #007c72;} /*dark teal */
+a.topnav:link, a.topnav:visited {color: #9114c2;} /* Purple */
 a.topnav:hover {color: #707a00; text-decoration: none;} 
 
 
