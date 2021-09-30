@@ -1,7 +1,7 @@
 <div class="box banner">
             
     
-            <h1><a class="heading" href="index.php?page=home">Quick Quotes</a></h1>
+            <h1><a class="heading" href="index.php?page=home">Premium Poems</a></h1>
         </div>    <!-- / banner -->
 
         <!-- Navigation goes here.  Edit BOTH the file name and the link name -->
@@ -9,9 +9,9 @@
             
             <div class="linkwrapper">
                 <div class="commonsearches">
-                    <a href="index.php?page=showall">All</a> | 
-                    <a href="index.php?page=recent">Recent</a> | 
-                    <a href="index.php?page=random">Random</a> 
+                    <a href="index.php?page=showall">Show All Poems [Testing]</a> | 
+                    <a href="index.php?page=recent">___</a> | 
+                    <a href="index.php?page=random">___</a> 
                 </div>  <!-- / common searches -->
             
                 <div class="topsearch">

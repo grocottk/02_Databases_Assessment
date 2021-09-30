@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="A website containing a database of quotes.">
-    <meta name="keywords" content="words, writing, quotes, quote, people, historical, inspiring">
+    <meta name="description" content="A website connected to a datbase of poems">
+    <meta name="keywords" content="poetry, poem, poems, words, literature, historical, nature">
     <meta name="author" content="Kahlil">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     

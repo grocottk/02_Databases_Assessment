@@ -145,14 +145,14 @@ a.heading:link, a.heading:visited {color: #fff; text-decoration: none; }
 /* Navigation Links */
 a.topnav {font-weight: bold;}
 a.topnav:link, a.topnav:visited {color: #9114c2;} /* Purple */
-a.topnav:hover {color: #707a00; text-decoration: none;} 
+a.topnav:hover {color: #840dd4; text-decoration: none;} 
 
 
 /* links in page */
 a {font-weight: bold;}
-a:link{color: #007c72;} /* dark teal */
-a:visited{color: #222;} /* dark grey */
-a:hover{color: #707a00;}    /* Dark Green*/
+a:link{color: #7c007c;} /* Dark Purple */
+a:visited{color: #c41cbb;} /* Purple */
+a:hover{color: #e01ffa;}    /* Dark Pink */
 
 /* #### Headings / text styling #### */
 h1, h2, h3, h4 {
@@ -161,7 +161,7 @@ h1, h2, h3, h4 {
 
 .sub_heading {
     font-family: 'Ubuntu', sans-serif;
-    color: #593849; /* purple */
+    color: #ad1061; /* Purple */
     font-weight: bold;
 }
 
@@ -222,8 +222,8 @@ input.short {
 
 /* ### Result styling, including 'tags' buttons ### */
 .results {
-    background-color: #58a50c;
-    border: solid 1px #007c72;
+    background-color: #bf04f8; /* Purple */
+    border: solid 1px #7c0072; /* Dark Purple */
     padding: 10px;
 
     margin-right: 20px;
